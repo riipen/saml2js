@@ -4,7 +4,7 @@
 // into a POJO (Plain Old JavaScript Object)
 
 // Require dependencies
-var xmldom    = require('xmldom'),
+var xmldom    = require('@xmldom/xmldom'),
     xpath     = require('xpath'),
     _         = require('lodash');
 

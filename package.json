@@ -19,8 +19,8 @@
     "url": "https://github.com/riipen/saml2js/issues"
   },
   "dependencies": {
+    "@xmldom/xmldom": "0.8.2",
     "lodash": "^4.17.11",
-    "xmldom": "^0.4.0",
     "xpath": "^0.0.32"
   },
   "homepage": "https://github.com/riipen/saml2js",
@@ -31,7 +31,7 @@
     "grunt-contrib-watch": "^1.1.0",
     "jshint-stylish": "^2.0.1",
     "load-grunt-tasks": "^5.1.0",
-    "mocha": "^8.2.1",
+    "mocha": "^10.0.0",
     "time-grunt": "^2.0.0"
   },
   "scripts": {
