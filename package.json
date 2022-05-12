@@ -1,5 +1,5 @@
 {
-  "name": "@riipen/saml2js",
+  "name": "riipen-saml2js",
   "version": "0.1.2",
   "description": "Parse SAML2 attributes into a JavaScript object.",
   "main": "index.js",
