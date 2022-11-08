@@ -19,8 +19,8 @@
     "url": "https://github.com/riipen/saml2js/issues"
   },
   "dependencies": {
-    "@xmldom/xmldom": "0.8.2",
-    "lodash": "^4.17.11",
+    "@xmldom/xmldom": "0.8.6",
+    "lodash": "^4.17.21",
     "xpath": "^0.0.32"
   },
   "homepage": "https://github.com/riipen/saml2js",
